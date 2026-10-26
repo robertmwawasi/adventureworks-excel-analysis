@@ -2,7 +2,7 @@
 
 An end-to-end analysis of a fictional bicycle company's online sales, built in Microsoft Excel 2016 and finished with a one-page interactive dashboard.
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshotdashboard.png)
 
 ## About the project
 
@@ -15,24 +15,27 @@ An end-to-end analysis of a fictional bicycle company's online sales, built in M
 
 | File | What it is |
 |---|---|
-| `AdventureWorks_Sales_Analysis_Portfolio_Summary.pdf` | Plain-language summary of all nine projects |
-| `AdventureWorks_Dashboard.pdf` | The one-page dashboard (static copy) |
-| `screenshots/` | Images of the dashboard |
-| `AdventureWorks_Dashboard.xlsx` | The workbook with formulas and PivotTables (if included) |
+| [AdventureWorks Sales Analysis Portfolio Summary.pdf](AdventureWorks%20Sales%20Analysis%20Portfolio%20Summary.pdf) | Plain-language summary of all nine projects |
+| [AdventureWorks_Dashboard.pdf](AdventureWorks_Dashboard.pdf) | The one-page dashboard (static copy) |
+| [screenshotdashboard.png](screenshotdashboard.png) | Image of the dashboard |
+| [AdventureWorks_Dashboard.xlsx (Google Drive)]https://docs.google.com/spreadsheets/d/1xFd_HODR1D9sIdSpoSc4D0FRneqrWFsI/edit?usp=sharing&ouid=111716562478323141475&rtpof=true&sd=true | The workbook with formulas and PivotTables |
 
 ## The nine projects
 
 **Beginner**
+
 1. **Sales trend:** revenue and profit by year and month
 2. **Products:** best and worst sellers, and how accessories changed the average order
 3. **Geography:** sales and margin by country
 
 **Intermediate**
+
 4. **Customer profile:** who buys what, using income, education, cars and children
 5. **Product mix:** product lines, models, colours and sizes
 6. **Seasonality:** weekday, month and fiscal-year patterns
 
 **Advanced**
+
 7. **Customer groups (RFM):** scoring customers on recency, frequency and spend
 8. **Repeat buying (cohorts):** do customers come back, compared fairly
 9. **Dashboard:** KPI cards, charts and slicers on one page
@@ -66,7 +69,9 @@ Excel Tables, INDEX/MATCH and VLOOKUP, SUMIFS and COUNTIFS, nested IF logic, Piv
 
 ## Data source
 
-AdventureWorks sample data from Microsoft. Source:https://selar.com/235xdv3727.
+The data comes from Microsoft's AdventureWorks sample databases, which describe a fictional bicycle company. Microsoft publishes its SQL samples under the MIT license: https://learn.microsoft.com/en-us/sql/samples
+
+I worked from an Excel version of the data downloaded from: https://selar.com/235xdv3727
 
 ## About me
 
