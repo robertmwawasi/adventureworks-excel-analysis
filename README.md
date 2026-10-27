@@ -18,7 +18,7 @@ An end-to-end analysis of a fictional bicycle company's online sales, built in M
 | [AdventureWorks Sales Analysis Portfolio Summary.pdf](AdventureWorks%20Sales%20Analysis%20Portfolio%20Summary.pdf) | Plain-language summary of all nine projects |
 | [AdventureWorks_Dashboard.pdf](AdventureWorks_Dashboard.pdf) | The one-page dashboard (static copy) |
 | [screenshotdashboard.png](screenshotdashboard.png) | Image of the dashboard |
-| [AdventureWorks_Dashboard.xlsx (Google Drive)]https://docs.google.com/spreadsheets/d/1xFd_HODR1D9sIdSpoSc4D0FRneqrWFsI/edit?usp=sharing&ouid=111716562478323141475&rtpof=true&sd=true | The workbook with formulas and PivotTables |
+| [AdventureWorks_Dashboard.xlsx (Google Drive)](https://drive.google.com/file/d/1xFd_HODR1D9sIdSpoSc4D0FRneqrWFsI/view?usp=sharing) | The workbook with formulas and PivotTables |
 
 ## The nine projects
 
